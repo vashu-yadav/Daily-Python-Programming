@@ -1,0 +1,13 @@
+num=[1,2,42,54,36,72,2]
+num.append(100)
+print(num)
+print(num.insert(2,54))
+print(num.remove(2))
+print(num.pop())
+print(num.pop(3))
+print(num.append(42))
+print(num.append(12))
+print(num.count(42))
+print(num.sort())
+print(num.reverse())
+num1=num[::-1]
