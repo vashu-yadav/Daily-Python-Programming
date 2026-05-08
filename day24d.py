@@ -7,3 +7,4 @@ last_num=num[-1]
 even=num[::2]
 reverse=num[::1]
 
+num[1:3]=[25,45]
